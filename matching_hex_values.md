@@ -1,6 +1,5 @@
 # Matching Hex Values
 
-Introductory paragraph (replace this with your text)
 In this Gist, I'll be teaching you about regular expression, commonly known as Regex, more specifically, how to match hex values with Regex!
 
 
@@ -87,12 +86,12 @@ Since hex codes can have a length of either 3 characters or 6 charcters but no b
 
 ### Flags
 
-a
+This regular expression does not contain any flags!
 
 
 ### Character Escapes
 
-a
+This regular expression does not contain any character escapes!
 
 
 ## Author
